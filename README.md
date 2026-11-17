@@ -7,8 +7,10 @@ Native port of the original single-file HTML tool, with the same behavior.
 
 ## Download
 
-Get `For-MAC.exe` from the [Releases](../../releases) page. It's one portable executable:
-no installer, no runtime. Windows 7 or later, 64-bit.
+**[Download For-MAC.exe](../../raw/main/release/For-MAC.exe)** (in [`release/`](release/)). It's one portable
+executable: no installer, no runtime. Windows 7 or later, 64-bit.
+
+Windows SmartScreen may warn you because the file isn't code-signed. Click **More info**, then **Run anyway**.
 
 ## Usage
 
